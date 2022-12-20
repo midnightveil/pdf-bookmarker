@@ -1,0 +1,113 @@
+Preface iii
+Algebra syllabus ix
+Syllabus for MATH1131/1141 ix
+Problem schedule ix
+1 INTRODUCTION TO VECTORS 1
+    1.1 Vector quantities 1
+        1.1.1 Geometric vectors 2
+        1.1.2 Two dimensional vector quantities 6
+    1.2 Vector quantities and R^n 8
+        1.2.1 Vectors in R² 9
+        1.2.2 Vectors in R^n 10
+    1.3 Rn and analytic geometry 14
+        1.3.1 Two dimensions 14
+        1.3.2 Three dimensions 15
+        1.3.3 n-dimensions 16
+    1.4 Lines 19
+        1.4.1 Lines in R² 22
+        1.4.2 Lines in R³ 24
+        1.4.3 Lines through two given points (in R^n) 27
+    1.5 Planes 29
+        1.5.1 Linear combination and span 29
+        1.5.2 Parametric vector form of a plane 31
+        1.5.3 Cartesian form of a plane in R³ 34
+    1.6 Vectors and Maple 35
+    Problems for Chapter 1 36
+2 VECTOR GEOMETRY 45
+    2.1 Lengths 45
+    2.2 The dot product 46
+        2.2.1 Arithmetic properties of the dot product 48
+        2.2.2 Geometric interpretation of the dot product in R^n 48
+    2.3 Applications: orthogonality and projection 50
+        2.3.1 Orthogonality of vectors 50
+        2.3.2 Projections 53
+        2.3.3 Distance between a point and a line in R3 55
+    2.4 The cross product 56
+        2.4.1 Arithmetic properties of the cross product 58
+        2.4.2 A geometric interpretation of the cross product 59
+        2.4.3 Areas 61
+    2.5 Scalar triple product and volume 62
+        2.5.1 Volumes of parallelepipeds 64
+    2.6 Planes in R3 65
+        2.6.1 Equations of planes in R3 65
+        2.6.2 Distance between a point and a plane in R3 69
+    2.7 Geometry and Maple 70
+    Problems for Chapter 2 73
+3 COMPLEX NUMBERS 81
+    3.1 A review of number systems 81
+    3.2 Introduction to complex numbers 83
+    3.3 The rules of arithmetic for complex numbers 84
+        3.4 Real parts, imaginary parts and complex conjugates 86
+    3.5 The Argand diagram 88
+    3.6 Polar form, modulus and argument 90
+    3.7 Properties and applications of the polar form 94
+        3.7.1 The arithmetic of polar forms 96
+        3.7.2 Powers of complex numbers 100
+        3.7.3 Roots of complex numbers 100
+    3.8 Trigonometric applications of complex numbers 102
+    3.9 Geometric applications of complex numbers 105
+    3.10 Complex polynomials 109
+        3.10.1 Roots and factors of polynomials 109
+        3.10.2 Factorisation of polynomials with real coefficients 112
+    3.11 Appendix: A note on proof by induction 113
+    3.12 Appendix: The Binomial Theorem 115
+    3.13 Complex numbers and Maple 116
+    Problems for Chapter 3 118
+4 LINEAR EQUATIONS AND MATRICES 129
+    4.1 Introduction to linear equations 129
+    4.2 Systems of linear equations and matrix notation 133
+    4.3 Elementary row operations 137
+        4.3.1 Interchange of equations 137
+        4.3.2 Adding a multiple of one equation to another 138
+        4.3.3 Multiplying an equation by a non-zero number 139
+    4.4 Solving systems of equations 139
+        4.4.1 Row-echelon form and reduced row-echelon form 140
+        4.4.2 Gaussian elimination 142
+        4.4.3 Transformation to reduced row-echelon form 145
+        4.4.4 Back-substitution 148
+    4.5 Deducing solubility from row-echelon form 149
+    4.6 Solving Ax = b for indeterminate b 150
+    4.7 General properties of the solution of Ax = b 151
+    4.8 Applications 154
+        4.8.1 Geometry 154
+        4.8.2 Chemical engineering 157
+        4.8.3 Economics 159
+    4.9 Matrix reduction and Maple 161
+    Problems for Chapter 4 163
+5 MATRICES 175
+    5.1 Matrix arithmetic and algebra 175
+        5.1.1 Equality, addition and multiplication by a scalar 176
+        5.1.2 Matrix multiplication 179
+        5.1.3 Matrix arithmetic and systems of linear equations 184
+    5.2 The transpose of a matrix 185
+        5.2.1 Some uses of transposes 186
+        5.2.2 Some properties of transposes 187
+    5.3 The inverse of a matrix 190
+        5.3.1 Some useful properties of inverses 191
+        5.3.2 Calculating the inverse of a matrix 192
+        5.3.3 Inverse of a 2 × 2 matrix 194
+        5.3.5 Inverses and solution of Ax = b 197
+    5.4 Determinants 198
+        5.4.1 The definition of a determinant 198
+        5.4.2 Properties of determinants 199
+        5.4.3 The efficient numerical evaluation of determinants 203
+        5.4.4 Determinants and solutions of Ax = b 206
+    5.5 Matrices and Maple 208
+    Problems for Chapter 5 209
+ANSWERS TO SELECTED PROBLEMS 217
+    Chapter 1 217
+    Chapter 2 223
+    Chapter 3 226
+    Chapter 4 233
+    Chapter 5 238
+INDEX 242

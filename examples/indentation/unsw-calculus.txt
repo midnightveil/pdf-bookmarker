@@ -1,0 +1,132 @@
+Preface iii
+Calculus Syllabus ix
+1 Sets, inequalities and functions 1
+    1.1 Sets of numbers 1
+    1.2 Solving inequalities 4
+    1.3 Absolute values 7
+    1.4 Functions 9
+    1.5 Polynomials and rational functions 13
+    1.6 The trigonometric functions 14
+    1.7 The elementary functions 17
+    1.8 Implicitly defined functions 18
+    1.9 Continuous functions 21
+    1.10 Maple notes 22
+    Problems for Chapter 1 24
+2 Limits 27
+    2.1 Limits of functions at infinity 27
+        2.1.1 Basic rules for limits 27
+        2.1.2 The pinching theorem 29
+        2.1.3 Limits of the form f(x)/g(x) 30
+        2.1.4 Limits of the form √f(x) -√g(x) 30
+        2.1.5 Indeterminate forms 31
+    2.2 The definition of lim x→∞ f(x) 31
+    2.3 Proving that lim x→∞ f(x) = L using the limit definition 34
+    2.4 Proofs of basic limit results (MATH1141 only) 37
+    2.5 Limits of functions at a point 38
+        2.5.1 Left-hand, right-hand and two-sided limits 38
+        2.5.2 Limits and continuous functions 40
+        2.5.3 Rules for limits at a point 42
+    2.6 Maple notes 46
+    Problems for Chapter 2 47
+3 Properties of continuous functions 51
+    3.1 Combining continuous functions 51
+    3.2 Continuity on intervals 53
+    3.3 The intermediate value theorem 54
+    3.4 The maximum-minimum theorem 56
+    Problems for Chapter 3 60
+4 Differentiable functions 63
+    4.1 Gradients of tangents and derivatives 65
+    4.2 Rules for differentiation 69
+    4.3 Proofs of results in Section 4.2 71
+    4.4 Implicit differentiation 72
+    4.5 Differentiation, continuity and split functions 74
+    4.6 Derivatives and function approximation 77
+    4.7 Derivatives and rates of change 78
+    4.8 Local maximum, local minimum and stationary points 79
+    4.9 Maple notes 81
+    Problems for Chapter 4 82
+5 The mean value theorem and applications 85
+    5.1 The mean value theorem 85
+    5.2 Proof of the mean value theorem 87
+    5.3 Proving inequalities using the mean value theorem 88
+    5.4 Error bounds 90
+    5.5 The sign of a derivative 91
+    5.6 The second derivative and applications 93
+    5.7 Critical points, maxima and minima 96
+    5.8 Counting zeros 98
+    5.9 Antiderivatives 101
+    5.10 L'Hôpital's rule 103
+    Problems for Chapter 5 107
+6 Inverse functions 111
+    6.1 Some preliminary examples 111
+    6.2 One-to-one functions 113
+    6.3 Inverse functions 115
+    6.4 The inverse function theorem 119
+    6.5 Applications to the trigonometric functions 120
+    6.6 Maple notes 125
+    Problems for Chapter 6 127
+7 Curve sketching 131
+    7.1 Curves defined by a Cartesian equation 131
+        7.1.1 A checklist for sketching curves 132
+        7.1.2 Oblique asymptotes 132
+        7.1.3 Examples 135
+    7.2 Parametrically defined curves 136
+        7.2.1 Parametrisation of conic sections 139
+        7.2.2 Calculus and parametric curves 141
+        7.2.3 The cycloid and curve of fastest descent 142
+    7.3 Curves defined by polar coordinates 144
+        7.3.1 Polar coordinates 144
+        7.3.2 Basic sketches of polar curves 146
+        7.3.3 Sketching polar curves using calculus 148
+    7.4 Maple notes 151
+    Problems for Chapter 7 153
+8 Integration 157
+    8.1 Area and the Riemann Integral 157
+    8.1.1 Area of regions with curved boundaries 157
+    8.1.2 Approximations of area using Riemann sums 160
+    8.1.3 The definition of area under the graph of a function and the Riemann integral 163
+    8.2 Integration using Riemann sums 165
+    8.3 The Riemann integral and signed area 168
+    8.4 Basic properties of the Riemann integral 169
+    8.5 The first fundamental theorem of calculus 171
+    8.6 The second fundamental theorem of calculus 175
+    8.7 Indefinite integrals 178
+    8.8 Integration by substitution 180
+    8.9 Integration by parts 185
+    8.10 Improper integrals 186
+    8.11 Comparison tests for improper integrals 189
+    8.12 Functions defined by an integral 196
+    8.13 Maple notes 199
+    Problems for Chapter 8 200
+9 The logarithmic and exponential functions 207
+    9.1 Powers and logarithms 208
+    9.2 The natural logarithm function 209
+    9.3 The exponential function 212
+    9.4 Exponentials and logarithms with other bases 214
+    9.5 Integration and the ln function 215
+    9.6 Logarithmic differentiation 216
+    9.7 Indeterminate forms with powers 217
+    Problems for Chapter 9 219
+10 The hyperbolic functions 223
+    10.1 Hyperbolic sine and cosine functions 224
+    10.2 Other hyperbolic functions 227
+    10.3 Hyperbolic identities 228
+    10.4 Hyperbolic derivatives and integrals 230
+    10.5 The inverse hyperbolic functions 231
+    10.6 Integration leading to the inverse hyperbolic functions 234
+    10.7 A summary of important hyperbolic formulae 236
+    10.8 (Appendix):The catenary 237
+    10.9 Maple notes 240
+    Problems for Chapter 10 241
+Answers to selected problems 243
+    Chapter 1 243
+    Chapter 2 244
+    Chapter 3 245
+    Chapter 4 245
+    Chapter 5 246
+    Chapter 6 247
+    Chapter 7 248
+    Chapter 8 249
+    Chapter 9 250
+    Chapter 10 251
+Index 252

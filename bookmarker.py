@@ -156,6 +156,7 @@ def main(
             filter(lambda x: x is not None, [
                 "gs" if platform.system() != "Windows" else "gswin64",
                 "-dBATCH",
+                "-dNOSAFER",
                 "-dNOPAUSE",
                 "-dNO_PDFMARK_OUTLINES" if remove_bookmarks else None,
                 "-sDEVICE=pdfwrite",
